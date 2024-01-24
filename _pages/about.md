@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+NEWS
+======
 [1]	Zhipeng Zhang, Yuhang Zhang, Mianxiong Dong, Kaoru Ota, Yao Zhang, Yonggong Ren. Collaborative tag-aware graph neural network for long-tail service recommendations[J]. IEEE Transactions on Services Computing, 2024, DOI: 10.1109/TSC.2024.3349853.
 [2]	Zhipeng Zhang, Yuhang Zhang, Anqi Wang, Pinglei Zhou, Yao Zhang, Yonggong Ren. User-oriented interest representation on knowledge graph for long-tail recommendation[C]. Proceedings of the 19th International Conference on Advanced Data Mining and Applications(ADMA), pp.340-355, Shenyang, China, August 21-23, 2023.
 [3]	Zhipeng Zhang, Yuhang Zhang, Tianyang Hao, Zuoqing Li, Yao Zhang, Masahiro Inuiguchi. Unearthing undiscovered interests: knowledge enhanced representation aggregation for long-tail recommendation[C]. Proceedings of the 10th International Conference on Integrated Uncertainty in Knowledge Modelling and Decision Making(IUKM), pp.91-103, Kanazawa, Japan, November 2-4, 2023.
@@ -32,15 +34,6 @@ redirect_from:
 [22]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai. Modification of the covering-based collaborative filtering model to alleviate the new user cold-start problem[C]. Proceedings of the 16th International Conference on Advanced Intelligent Systems(ISIS), pp.1238-1249, Mokpo, Korea, November 4-7, 2016.
 [23]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai. Applying covering-based rough set theory to user-based collaborative filtering to enhance the quality of recommendations[C]. Proceedings of the 3rd International Conference on Integrate Uncertainty in Knowledge Modeling and Decision Making(IUKM), pp.279-289, NhaTrang, Vietnam, October 15-17, 2015.
 [24]	张志鹏, 黄明. 基于改进多目标遗传算法求解混合流水车间调度问题[J]. 计算机应用与软件, 2015, 32(10): 291-294.
-
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-
 
 
 
