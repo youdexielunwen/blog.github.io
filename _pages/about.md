@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "news"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+[1]	Zhipeng Zhang, Yuhang Zhang, Mianxiong Dong, Kaoru Ota, Yao Zhang, Yonggong Ren. Collaborative tag-aware graph neural network for long-tail service recommendations[J]. IEEE Transactions on Services Computing, 2024, DOI: 10.1109/TSC.2024.3349853.
+[2]	Zhipeng Zhang, Yuhang Zhang, Anqi Wang, Pinglei Zhou, Yao Zhang, Yonggong Ren. User-oriented interest representation on knowledge graph for long-tail recommendation[C]. Proceedings of the 19th International Conference on Advanced Data Mining and Applications(ADMA), pp.340-355, Shenyang, China, August 21-23, 2023.
+[3]	Zhipeng Zhang, Yuhang Zhang, Tianyang Hao, Zuoqing Li, Yao Zhang, Masahiro Inuiguchi. Unearthing undiscovered interests: knowledge enhanced representation aggregation for long-tail recommendation[C]. Proceedings of the 10th International Conference on Integrated Uncertainty in Knowledge Modelling and Decision Making(IUKM), pp.91-103, Kanazawa, Japan, November 2-4, 2023.
+[4]	Zhipeng Zhang, Mianxiong Dong, Kaoru Ota, Yao Zhang, Yasuo Kudo. Context-enhanced probabilistic diffusion for urban point-of-interest recommendation[J]. IEEE Transactions on Services Computing, 2022, 15(6): 3156-3169.
+[5]	任永功, 吕福泽, 张志鹏(通讯作者). 融合知识图谱与注意力机制的个性化序列推荐[J]. 小型微型计算机系统, 2022, 7(7): 1362-1369.
+[6]	Zhipeng Zhang, Mianxiong Dong, Kaoru Ota, Yao Zhang, Yonggong Ren. LBCF: A link-based collaborative filtering for over-fitting problem in recommender system[J]. IEEE Transactions on Computational Social Systems, 2021, 8(6): 1450-1464.
+[7]	任永功, 王瑞霞, 张志鹏(通讯作者). 基于社交网络能量扩散的协同过滤推荐算法[J]. 模式识别与人工智能, 2021, 34(6): 561-571. 
+[8]	任永功, 王宁婧, 张志鹏(通讯作者). 基于加权三部图的协同过滤推荐算法[J]. 模式识别与人工智能, 2021, 34(7): 666-676.
+[9]	Zhipeng Zhang, Mianxiong Dong, Kaoru Ota, Yasuo Kudo. Alleviating new user cold-start in user-based collaborative filtering via bipartite network[J]. IEEE Transactions on Computational Social Systems, 2020, 7(3): 672-685.
+[10]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai, Yonggong Ren. Improved covering-based collaborative filtering for new users' personalized recommendations[J]. Knowledge and Information Systems. 2020, 62: 3133–3154. 
+[11]	Zhipeng Zhang, Yao Zhang, Yonggong Ren. Employing neighborhood reduction for alleviating sparsity and cold start problems in user-based collaborative filtering[J]. Information Retrieval Journal. 2020, 23: 449–472. 
+[12]	任永功, 石佳鑫, 张志鹏(通讯作者). 融合关系挖掘与协同过滤的物品冷启动推荐算法[J]. 模式识别与人工智能, 2020, 33(1): 75-85. 
+[13]	任永功, 王思雨, 张志鹏(通讯作者). 缓解数据稀疏问题的协同过滤混合填充算法[J]. 模式识别与人工智能, 2020, 33(2): 166-175.
+[14]	任永功, 张云鹏, 张志鹏(通讯作者). 基于粗糙集规则提取的协同过滤推荐算法[J]. 通信学报, 2020, 41(1): 76-83.
+[15]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai, Yonggong Ren. Addressing Complete New Item Cold-Start Recommendation: A Niche Item-Based Collaborative Filtering via Interrelationship Mining[J]. Applied Sciences-Basel. 2019, 9, 1894. 
+[16]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai, Yonggong Ren. Enhancing Recommendation Accuracy of Item-Based Collaborative Filtering via Item-Variance Weighting[J]. Applied Sciences-Basel. 2019, 9, 1928. 
+[17]	张志鹏, 张尧, 任永功. 基于时间相关度和覆盖权重的协同过滤推荐算法[J]. 模式识别与人工智能, 2019, 32(4): 289-297.
+[18]	张志鹏, 张尧, 任永功. 基于覆盖约简的个性化协同过滤推荐方法[J]. 模式识别与人工智能, 2019, 32(7): 607-614.
+[19]	任永功, 高鹏, 张志鹏(通讯作者). 一种利用相关性度量的不确定数据频繁模式挖掘[J]. 小型微型计算机系统, 2019, 3(3): 623-627
+[20]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai. Neighbor selection for user-based collaborative filtering using covering-based rough sets[J]. Annals of Operations Research, 2017, 256 (2): 359-374. 
+[21]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai. Improvement of item-based collaborative filtering by adding time factor and covering degree[C]. Proceedings of the 8th International Conference on Soft Computing and Intelligent Systems and 17th International Symposium on Advanced Intelligent Systems(SCIS&ISIS), pp. 543-547, Sapporo, Japan, August 25-28, 2016.
+[22]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai. Modification of the covering-based collaborative filtering model to alleviate the new user cold-start problem[C]. Proceedings of the 16th International Conference on Advanced Intelligent Systems(ISIS), pp.1238-1249, Mokpo, Korea, November 4-7, 2016.
+[23]	Zhipeng Zhang, Yasuo Kudo, Tetsuya Murai. Applying covering-based rough set theory to user-based collaborative filtering to enhance the quality of recommendations[C]. Proceedings of the 3rd International Conference on Integrate Uncertainty in Knowledge Modeling and Decision Making(IUKM), pp.279-289, NhaTrang, Vietnam, October 15-17, 2015.
+[24]	张志鹏, 黄明. 基于改进多目标遗传算法求解混合流水车间调度问题[J]. 计算机应用与软件, 2015, 32(10): 291-294.
+
 
 A data-driven personal website
 ======
@@ -16,18 +40,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 
 
